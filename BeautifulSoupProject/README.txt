@@ -9,7 +9,7 @@ If you do not have BeautifulSoup, then simply install it.
 ---PIP---
 
 >>> pip install beautifulsoup4
-
+>>> pip install colorama
 
 ---SOURCE---
 
