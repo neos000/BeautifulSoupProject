@@ -3,8 +3,9 @@ Experimenting with the BeautifulSoup library. This Project will be updated, but 
 from a webpage of your choice.
 
 # Usage.
-`x = WebsiteScraper('YOUR URL')
-x.link_scraper()`
+1. Change directory to the main directory of 'main.py'.
+2. python main.py
 
 # Dependencies.
-BeautifulSoup
+BeautifulSoup.
+Colorama.
